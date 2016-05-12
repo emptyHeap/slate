@@ -5,6 +5,7 @@ language_tabs:
   - shell
   - ruby
   - python
+  - json
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
@@ -82,6 +83,11 @@ curl "http://example.com/api/kittens"
 ```
 
 > The above command returns JSON structured like this:
+
+```python
+import something
+something.something
+```
 
 ```json
 [
